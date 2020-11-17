@@ -1,0 +1,224 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bbc.1.gb" tvg-name="BBC ONE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="UK Ent", BBC ONE
+https://edge-1192-ch-gv.filmon.com/live/4139.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="BBC TWO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="UK Ent", BBC TWO
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2949
+#EXTINF:-1 tvg-id="itv+1.gb" tvg-name="ITV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="UK Ent", ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-id="channel.4.gb" tvg-name="CHANNEL 4" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_4_uk.png" group-title="UK Ent", CHANNEL 4
+http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
+#EXTINF:-1 tvg-id="channel.5.gb" tvg-name="CHANNEL 5" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-5-uk.png" group-title="UK Ent", CHANNEL 5
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2931
+#EXTINF:-1 tvg-id="bbc.four.gb" tvg-name="BBC FOUR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_four_uk.png" group-title="UK Ent", BBC FOUR
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-name="FILM 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK042Film4.png", FILM 4
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-id="dave.gb" tvg-name="DAVE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dave-uk.png" group-title="UK Ent", DAVE
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2926
+#EXTINF:-1 tvg-name="GOLD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gold_uktv.png" group-title="UK Ent", UK173:GOLD
+http://178.132.3.162:88/Gold/index.m3u8?token=test
+#EXTINF:-1 tvg-id="really.gb" tvg-name="REALLY" tvg-logo="https://www.lyngsat.com/logo/tv/rr/really_uktv.png" group-title="UK Ent", REALLY
+https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="forces.gb" tvg-name="FORCES TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/forces_tv_uk.png", FORCES TV 
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY MOVIES ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-action-us-uk.png", SONY MOVIES ACTION
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-name="HBO ADRIA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png", HBO ADRIA
+http://bos.00387.info:8080/HBO/index.m3u8?token=test
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png", HBO 2
+http://bos.00387.info:8080/HBO2/index.m3u8?token=test
+#EXTINF:-1 tvg-name="HBO 3" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png", HBO 3
+http://bos.00387.info:8080/HBO3/index.m3u8?token=test
+#EXTINF:-1 tvg-name"CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_ce.png", CINEMAX
+http://bos.00387.info:8080/Cinemax1/index.m3u8?token=test
+#EXTINF:-1 tvg-name"CINEMAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_ce_2.png", CINEMAX 2
+http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test
+#EXTINF:-1 tvg-name"NATIONAL GEOGRAPHIC" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png", NATIONAL GEOGRAPHIC
+http://bos.00387.info:8080/NationalGeographicChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-name"NAT GEO WILD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NAT GEO WILD
+http://bos.00387.info:27979/DOK:NATGEOWILD/index.m3u8?token=test
+#EXTINF:-1 tvg-name"DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png", DISCOVERY
+http://srb.00387.info:80/DiscoverySerbia/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png", ANIMAL PLANET
+http://bos.00387.info:8080/AnimalPlanetHD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png", HISTORY 
+http://bos.00387.info:8080/HistoryChannel/index.m3u8?token=test
+#EXTINF: -1 tvg-name="PBS AMERICA" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pbs_america.png" group-title="UK Ent", PBS AMERICA
+http://51.52.156.22:8888/http/012
+#EXTINF:-1, tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png", SMITHSONIAN CHANNEL
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1431.ts
+#EXTINF:-1, tvg-name="VIASAT HISTORY" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_history.png", VIASAT HISTORY
+http://m.tradok.pro:4444/JerzyP/sjxgNUHH/60
+#EXTINF: -1 tvg-name="EDEN" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eden-uk.png" group-title="UK Ent", EDEN
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28897
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_channel_us.png", TRAVEL CHANNEL 
+http://bos.00387.info:27979/DOK:TravelChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png", AXN
+http://bos.00387.info:8080/HU:TV2/index.m3u8?token=test
+#EXTINF:-1 tvg-name="CINESTAR PREMIERE 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere1.png", CINESTAR PREMIERE 1
+http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test
+#EXTINF:-1,CINESTAR PREMIERE 2
+#EXTINF:-1 tvg-name="CINESTAR PREMIERE 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere2.png", CINESTAR PREMIERE 2
+http://hrv.00387.info/CinestarPremiere2/index.m3u8?token=test
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png", FOX
+http://srb.00387.info/FOXHD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TV 1000" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv1000_balkan.png", TV 1000
+http://hrv.00387.info:80/tv1000/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ABC (USA)" tvg-logo="https://static-s.aa-cdn.net/img/ios/364191819/91a396b09d12bc302be568e10a939bf9", ABC (USA)
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/29438
+#EXTINF:-1 tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28875
+#EXTINF: -1  tvg-name="CLUBLAND" tvg-logo="https://www.lyngsat.com/logo/tv/cc/clubland_tv_uk.png" group-title="UK Ent", CLUBLAND 
+http://worldiptv.me:8080/s@mple-Re/Gt6k5DeU6W/42042
+#EXTINF: -1 tvg-name="KERRANG!" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kerrang_tv_uk.png" group-title="UK Ent", KERRANG!
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF: -1 tvg-name="VH1" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vh1_global.png", VH1
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2894
+#EXTINF:-1 tvg-name="MTV 80'S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-80s-us.png", MTV 80'S
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28873
+#EXTINF:-1 tvg-name="MTV 90'S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.png", MTV 90'S 
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28785
+#EXTINF: -1 tvg-name="MTV HITS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_hits_us_global.png", MTV HITS
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2896
+#EXTINF:-1 tvg-name="DEEJAY TV" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_deejay_it.png", DEE JAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deluxe_music_de.png", DELUXE MUSIC
+http://83.164.148.178:8888/play/a01n
+#EXTINF:-1 tvg-name="GOTV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/go_tv_at.png", GOTV
+http://83.164.148.178:8888/play/a048
+#EXTINF: -1 tvg-name="KISS UK" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kiss_uk.png" group-title="UK Ent", KISS UK
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28927
+#EXTINF: -1 tvg-name="BOX HITS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/box_hits_uk.png" group-title="UK Ent", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF: -1 tvg-name="THE BOX" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_box_uk.png" group-title="UK Ent", THE BOX
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-name="JUGOTON TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jugoton_tv_hr.png", JUGOTON TV 
+http://worldiptv.me:8080/s@mple-Re/Gt6k5DeU6W/23699
+#EXTINF:-1 tvg-name="N1" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png", N1 HR
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1tvg-name="RTV HERCEG BOSNE" tvg-logo="https://rtv-hb.com/wp-content/uploads/2020/09/logo-272x90-1.png", RTV HERCEG BOSNE
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1  tvg-name="Z1" tvg-logo="https://www.lyngsat.com/logo/tv/zz/z1_hr.png", Z1
+https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 tvg-name="BHT1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bht-1-ba.png", BHT1
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-name="FEDERALNA TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/ftv_ba.png", FEDERALNA
+http://bos.00387.info/FederalnaTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="RTV BUGOJNO" tvg-logo="https://www.bugojno-danas.info/wp-content/uploads/2020/10/rtv.jpg", RTV BUGOJNO
+http://bos.00387.info:27979/RTVBUGOJNO/index.m3u8?token=test
+#EXTINF:-1, tvg-name="FACE TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/face_tv_ba.png", FACE TV
+http://bos.00387.info:27979/FACETV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="PINK" tvg-logo="https://www.lyngsat.com/logo/corp/pp/pink_rs.png", PINK
+http://srb.00387.info:80/Pink/index.m3u8?token=test
+#EXTINF:-1 tvg-name="PRVA" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prva_rs.png", PRVA
+http://srb.00387.info:80/Prva/index.m3u8?token=test
+#EXTINF:-1 tvg-name="B92" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b92-rs.png", B92
+http://srb.00387.info:80/O2TV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="RTS 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rts_rs_1.png", RTS 1
+http://srb.00387.info/RTS1/index.m3u8?token=test
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png", BOOMERANG
+http://hrv.00387.info/BoomerangTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TEN (AUSTRALIA)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten-au.png", TEN (AUSTRALIA)
+http://203.122.193.228:9981/stream/channelid/286444328
+#EXTINF:-1 tvg-name="SKY NEWS AUSTRALIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png", SKY NEWS AUSTRALIA
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abc-news-au.png", ABC NEWS AUSTRALIA
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png", BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SKY NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png", SKY NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://www.lyngsat.com/logo/corp/aa/abc_us.png", ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-news-us.png", CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-name="CNBC EUROPE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_europe.png", CNBC EUROPE
+https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png", CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png", FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", EURONEWS
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food-network-uk.png", FOOD NETWORK
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_2.png", ITV 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-name="ITV 3" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_3.png", ITV 3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-name="ITV 4" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_4.png", ITV 4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="rte.one.gb" tvg-name="RTÉ ONE" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte_one.png" group-title="UK Ent", RTÉ ONE
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2901
+#EXTINF:-1 tvg-id="rte2.gb" tvg-name="RTÉ TWO" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte_2_ie.png" group-title="UK Ent", RTÉ TWO
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2869
+#EXTINF:-1 tvg-name="POP MAX" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-max-uk.png", POP MAX
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="POP" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png", POP
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="TINY POP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tiny_pop.png", TINY POP
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png", FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="GAY PORN 1" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN 1
+https://edge-1192-ch-gv.filmon.com/live/6155.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="GAY PORN 2" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN 2
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-name="PORN" tvg-logo="https://1.bp.blogspot.com/-FG7_y8L6J-o/XuOZK1wqUtI/AAAAAAAAAW8/j14ZLdjnVH8LVTC-v3SJwV_3_LnL9Nj_gCLcBGAsYHQ/s320/List%2BOf%2BAdult%2BXXX%2BPorn%2BChannels%2BOn%2BForeign%2BSatellite%2B42%2BEast%2B-%2B30%2BWest.png", PORN
+https://edge-1192-ch-gv.filmon.com/live/6158.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="PORN" tvg-logo="https://1.bp.blogspot.com/-FG7_y8L6J-o/XuOZK1wqUtI/AAAAAAAAAW8/j14ZLdjnVH8LVTC-v3SJwV_3_LnL9Nj_gCLcBGAsYHQ/s320/List%2BOf%2BAdult%2BXXX%2BPorn%2BChannels%2BOn%2BForeign%2BSatellite%2B42%2BEast%2B-%2B30%2BWest.png", PORN 
+https://edge-1192-ch-gv.filmon.com/live/6152.high.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="ROUGH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", ROUGH
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-name="MILF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-name="BIG DICK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", BIG DICK
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-name="THREESOME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", THREESOME
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-name="GANGBANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", GANGBANG
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-name="INTERRACIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-name="BLOWJOB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", BLOWJOB
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-name="HARDCORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", HARDCORE 
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-name="COMPILATION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", COMPILATION 
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-name="ANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", ANAL
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-name="PORNSTAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", PORNSTAR 
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-name="BIG ASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", BIG ASS 
+http://cdn.adultiptv.net/bigass.m3u8
+
+
+
+#EXTINF:-1,BBC SCOTLAND
+http://51.52.156.22:8888/http/001
+#EXTINF:-1,BBC TWO
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2949
+#EXTINF:-1,BBC FOUR
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2947
+#EXTINF:-1,CHANNEL 4
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2932
+#EXTINF:-1,CHANNEL 5
+http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2931
+#EXTINF:-1,KERRANG!
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1,MAGIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1,MTV NORWAY
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,E4
+http://178.132.3.162:88/E4/video.m3u8?token=test
+#EXTINF:-1,RUSSIA PERVI KANAL
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8 
+#EXTINF:-1,FRANCE 3
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8 
+
+
